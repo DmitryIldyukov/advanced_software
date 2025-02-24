@@ -1,0 +1,61 @@
+/* Стили для header */
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.header__title {
+  margin: 0;
+}
+
+/* Стили для main */
+.main {
+  display: flex;
+  padding: 20px;
+}
+
+.center {
+  display: flex;
+  margin: 0 auto;
+  flex-direction: column;
+}
+
+/* Стили для section */
+.section {
+  margin-bottom: 20px;
+}
+
+.section__title {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.section__text {
+  margin: 0;
+}
+
+.section__list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.section__item {
+  margin-bottom: 5px;
+}
+
+/* Стили для footer */
+.footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer__text {
+  margin: 0;
+}
