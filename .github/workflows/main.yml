@@ -1,23 +1,3 @@
-Skip to content
-Navigation Menu
-DmitryIldyukov
-advanced_software
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Deploy Next.js site to Pages
-Правки #5
-Jobs
-Run details
-Workflow file for this run
-.github/workflows/main.yml at a60169e
 # Sample workflow for building and deploying a Next.js site to GitHub Pages
 #
 # To get started with Next.js see: https://nextjs.org/docs/getting-started
@@ -111,4 +91,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-Правки · DmitryIldyukov/advanced_software@a60169e 
